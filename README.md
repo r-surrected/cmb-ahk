@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository contains my "ultimate" AutoHotkey script suite for City-17 Roblox HL2RP groups.
+This repository contains my "ultimate" AutoHotkey scripts for City-17 Roblox HL2RP groups.
 
 I’ve been developing AHK tools for the Roblox HL2RP genre since 2021, and this project represents the most complete, refined, and game-tested version of those scripts. It's designed to make it easier to speak phrases or words that players say often. 
 
